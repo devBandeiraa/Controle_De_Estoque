@@ -1,0 +1,2 @@
+ProdutoID,Nome,CategoriaID,PrecoUnitario,EstoqueAtual,EstoqueMinimo,ValorTotalEstoque
+2,Teclado,1,75.9,40,15,3036.0

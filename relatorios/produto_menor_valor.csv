@@ -1,0 +1,2 @@
+ProdutoID,Nome,CategoriaID,PrecoUnitario,EstoqueAtual,EstoqueMinimo,ValorTotalEstoque
+6,Detergente 500ml,4,2.8,300,50,840.0
